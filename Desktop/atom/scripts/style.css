@@ -1,0 +1,28 @@
+
+{
+    text-align: center;
+}
+p
+a:hover /* Apparence au survol des liens*/
+{
+  text-decoration: underline:
+  color: green;
+}
+p
+{
+  min-width: 80%;
+}
+p
+{
+  padding: 5px;
+  margin: 7px;
+}
+
+p
+{
+    width: 250px;
+    height: 110px;
+    text-align: justify;
+    border: 1px solid black;
+    overflow: auto;
+}
